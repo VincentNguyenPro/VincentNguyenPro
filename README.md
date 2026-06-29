@@ -12,7 +12,7 @@ Passionate about turning complex needs into intuitive solutions.
 
 [![Gmail](https://img.shields.io/badge/Gmail-vincent.nguyen75020@gmail.com-F24E1E?style=flat-square)](mailto://Vincent.nguyen75020@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-vincentnguyen.pro-2563EB?style=flat-square)](https://www.linkedin.com/in/vincentnguyen.pro/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vincentnguyen.pro.com-0FAAFF?style=flat-square)](https://Vincentnguyen.pro.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-vincentnguyen.pro-0FAAFF?style=flat-square)](https://Vincentnguyen.pro)  
 
 </div>
 
