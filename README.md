@@ -14,6 +14,9 @@ Passionate about turning complex needs into intuitive solutions.
 [![Linkedin](https://img.shields.io/badge/Linkedin-vincentnguyen.pro-2563EB?style=flat-square)](https://www.linkedin.com/in/vincentnguyenpro/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-vincentnguyen.pro-0FAAFF?style=flat-square)](https://Vincentnguyen.pro)  
 
+📍 Based in Paris, France. Available asap.
+
+Looking for new opportunities in Product Management — Let's chat! ☕
 </div>
 
 ---
@@ -87,6 +90,5 @@ It turns raw infrastructure data into actionable insights to cut waste and drive
 
 ## 📫 Let's connect
 
-Looking for new opportunities in Product Management — Let's chat! ☕
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincentnguyenpro/)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/VincentNguyenPro/Portfolio)
