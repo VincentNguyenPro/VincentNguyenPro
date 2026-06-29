@@ -2,9 +2,11 @@
 
 # Hi, I'm Vincent 👋
 
-**Product Manager focused on SaaS & FinOps.**
-Passionate about turning complex needs into intuitive solutions.
-Currently building [Kostbase](https://kostbase.com).
+**Product Manager & Product Owner** with **10 years of experience in Finance IT and digital transformation**, I shape and lead products with **measurable impact**, grounded in **user research**, **data**, and clear **business trade-offs**.  
+
+Passionate about turning complex needs into intuitive solutions.    
+
+🚧 Currently building [Kostbase](https://kostbase.com).
 
 </div>
 
