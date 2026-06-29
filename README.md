@@ -47,7 +47,7 @@ Kostbase is a FinOps platform designed to give IT leaders full visibility over t
 
 ## 🛠️ Stack & Tools
 
-**Product**
+📦 **Product**
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
@@ -57,7 +57,7 @@ Kostbase is a FinOps platform designed to give IT leaders full visibility over t
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**Finance**
+💹 **Finance**
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -65,7 +65,7 @@ Kostbase is a FinOps platform designed to give IT leaders full visibility over t
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
 
-**AI**
+🤖 **AI**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Dust](https://img.shields.io/badge/Dust-000000?style=flat&logoColor=white)
