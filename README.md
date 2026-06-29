@@ -7,7 +7,12 @@ I shape and lead products with **measurable impact**, grounded in **user researc
 
 Passionate about turning complex needs into intuitive solutions.    
 
-🚧 Currently building [Kostbase](https://kostbase.com).
+🚧 Currently building :  
+[![SaaS IT Speed management](https://img.shields.io/badge/SaaS-Kostbase.com-0FAAFF?style=flat-square)](https://Kostbase.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-vincent.nguyen75020@gmail.com-F24E1E?style=flat-square)](https://Vincent.nguyen75020@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-vincentnguyen.pro-2563EB?style=flat-square)](https://www.linkedin.com/in/vincentnguyen.pro/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vincentnguyen.pro.com-0FAAFF?style=flat-square)](https://Vincentnguyen.pro.com)  
 
 </div>
 
@@ -75,7 +80,7 @@ It turns raw infrastructure data into actionable insights to cut waste and drive
 
 ## 🔨 What I'm building right now
 
-- 🌱 **Currently:** Deepening my knowledge of GreenOps API integrations
+- 🌱 **Currently:** Deepening my knowledge of GreenOps
 - ⚡ **Next step:** Iterating on the Kostbase MVP
 
 ---
