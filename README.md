@@ -1,7 +1,7 @@
 # Hi, I'm Vincent 👋
 
-**Product Manager focused on SaaS & FinOps.**
-Passionate about turning complex needs into intuitive solutions.
+**Product Manager focused on SaaS & FinOps.**  
+Passionate about turning complex needs into intuitive solutions.  
 Currently building [Kostbase](https://kostbase.com).
 
 ---
