@@ -50,13 +50,24 @@ Owned costing tools rollout (€10M, 250 users, 12 countries).
 
 ---
 
-## 🚀 Featured Project — Kostbase
+## 🚀 Featured Projects
 
 - Kostbase is a FinOps platform designed to give IT leaders full visibility over their cloud costs and carbon footprint.  
 It turns raw infrastructure data into actionable insights to cut waste and drive smarter spending.  
 **→ Impact:** Built to help CIOs and CFOs reduce both their carbon footprint and IT costs.
 
 - 🔗 [kostbase.com](https://kostbase.com)
+
+- CardoMint is a collection tracker that tells Pokémon collectors what their cards and sealed products are worth today, across a catalogue of 70,000+ items.  
+Every purchase keeps its date, price and condition, so collectors see current value, total cost and realised gains in one place.  
+**→ Status:** Free, invite-only web app (desktop & mobile), with iOS and Android apps coming next.
+
+- 🔗 [cardomint.com](https://cardomint.com)
+
+- Synapses turns your LinkedIn data export into an interactive neural graph of your network.  
+Free, no sign-up, and everything runs in the browser — your data never leaves your machine.
+
+- 🔗 [Synapses](https://vincentnguyenpro.github.io/synapses/)
 
 ---
 
