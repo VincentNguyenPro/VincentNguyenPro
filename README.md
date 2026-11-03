@@ -8,7 +8,7 @@ I shape and lead products with **measurable impact**, grounded in **user researc
 Passionate about turning complex needs into intuitive solutions.    
 
 🚧 Currently building :  
-[![SaaS IT Speed management](https://img.shields.io/badge/SaaS-Kostbase.com-0FAAFF?style=flat-square)](https://Kostbase.com)
+[![SaaS IT Speed management](https://img.shields.io/badge/SaaS-Kostbase.com-0FAAFF?style=flat-square)](https://Kostbase.com) [![App CardoMint](https://img.shields.io/badge/App-CardoMint.com-F2B705?style=flat-square)](https://cardomint.com) [![Tool Synapses](https://img.shields.io/badge/Tool-Synapses-7B61FF?style=flat-square)](https://vincentnguyenpro.github.io/synapses/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-vincent.nguyen75020@gmail.com-F24E1E?style=flat-square)](mailto://Vincent.nguyen75020@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-vincentnguyen.pro-2563EB?style=flat-square)](https://www.linkedin.com/in/vincentnguyenpro/)
